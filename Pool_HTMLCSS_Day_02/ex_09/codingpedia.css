@@ -1,0 +1,28 @@
+#block1 {
+    background-color: orange;
+    height: 120px;
+    width: 120px;
+    display: inline-block;
+    box-sizing: border-box;
+    margin-right: 20px;
+}
+
+#block2 {
+    background-color: white;
+    border: 10px solid yellow;
+    padding: 8px;
+    height: 120px;
+    width: 120px;
+    display: inline-block;
+    box-sizing: border-box;
+    margin-right: 20px;
+}
+
+#block3 {
+    background-color: black;
+    padding: 10px;
+    height: 120px;
+    width: 120px;
+    display: inline-block;
+    box-sizing: border-box;
+}

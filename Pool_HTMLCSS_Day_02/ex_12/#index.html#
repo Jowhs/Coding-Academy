@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Welcome to CodingPedia</title>
+    <link text="text/css" rel="stylesheet" href="codingpedia.css"/>
+     <link text="text/css" rel="stylesheet" href="../../bootstrap.css"/>
+    
+  </head>
+
+  <body>
+    <div class="container">
+      <ul>
+	<p>Element</p><li>HTML</li><p>end of sentence</p><br>
+      </ul>
+    </div>
+  </body>
+
+</html>

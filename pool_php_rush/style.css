@@ -1,0 +1,133 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+
+html {
+	background-color: #ced4fe;
+}
+
+form {
+	margin: auto;
+	margin-top: 90px;
+	margin-bottom: 20px;
+	background-color: white;
+	padding: 10px 10px;
+	width: 300px;
+	text-align: center;
+}
+
+#edit_name {
+	margin: auto;
+	margin-top: 70px;
+	margin-left: 50px;
+	background-color: white;
+	padding: 8px 8px;
+	width: 200px;
+	text-align: center;
+	display: inline-block;
+}
+
+#edit_password {
+	margin: auto;
+	margin-top: 70px;
+	margin-left: 50px;
+	background-color: white;
+	padding: 8px 8px;
+	width: 200px;
+	text-align: center;
+	display: inline-block;
+}
+
+#edit_email {
+	margin: auto;
+	margin-top: 70px;
+	margin-left: 50px;
+	background-color: white;
+	padding: 8px 8px;
+	width: 220px;
+	text-align: center;
+	display: inline-block;
+}
+
+.list{
+	position: relative;
+	float: left;
+}
+
+#registration{
+	float: left;
+	margin-left: 70px;
+}
+
+#delete{
+	float: right;
+	margin-right: 70px;
+}
+
+#nombre {
+	width: 180px;
+}
+
+#pass {
+	width: 180px;
+}
+
+#email {
+	width: 180px;
+}
+
+input[type="submit"] {
+	background: linear-gradient(#fe9a2e, #f3e2a9);
+	padding: 7px 10px;
+	border-radius: 4px;
+	opacity: 0.9;
+	margin-bottom: 5px;
+}
+
+input[type="submit"]:hover{
+	opacity: 1.5;
+}
+
+p {
+	text-align: center;
+	padding-top: 20px;
+}
+
+a {
+	width: 200px;
+	text-align: center;
+	margin: auto;
+}
+
+h1 {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.title {
+	text-align: center;
+}
+
+.error{
+	color: red;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.error_edit{
+	color: red;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 15px;
+}
+
+.admin_list_user{
+	float: right;
+}
+
+.forms{
+	float: left;
+}

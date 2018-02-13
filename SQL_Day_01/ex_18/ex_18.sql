@@ -1,0 +1,1 @@
+select concat(concat(upper(left(lastname, 1)), lower(substring(lastname, 2))), " - ", concat(upper(left(firstname, 1)), lower(substring(firstname, 2)))) as "Full name" from profiles order by birthdate asc;

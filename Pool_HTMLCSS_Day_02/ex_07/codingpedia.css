@@ -1,0 +1,4 @@
+.my_button {
+    border: 10px solid transparent;
+    border-image: url(Asset/border.png) 30 round;
+}

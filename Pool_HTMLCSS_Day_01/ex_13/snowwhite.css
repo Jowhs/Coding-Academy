@@ -1,0 +1,36 @@
+html {
+    background-color: yellow;
+}
+
+
+.a-great-style1 {
+    background-color: black;
+    font-family: Impact;
+    text-size: 21px;
+    color: white;
+}
+
+.a-great-style2 {
+    background-color: white;
+    font-family: Impact;
+    text-size: 27px;
+    color: black;
+}
+
+
+.left-bordered-and-big {
+    float: left;
+    border: 1px solid black;
+    width: 60%;
+}
+
+.right-bordered-and-small {
+    float: right;
+    border: 1px solid black;
+    width: 20%;
+}
+
+span {
+    color: red;
+    font-style: italic;
+}

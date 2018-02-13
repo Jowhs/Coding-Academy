@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Welcome to CodingPedia</title>
+    <link type="text/css" rel="stylesheet" href="snowwhite.css"/>
+  </head>
+  <body>
+    <p class="a-great-style1">Once upon a time there lived a lovely princess with fair skin and blue eyes. She was so fair that she was named Snow White.</p>
+    <p class="a-great-style2">One day, she was knitting and pricked herself. Three drops of <span>blood</span> fell in the snow.</p>
+  </body>
+</html>

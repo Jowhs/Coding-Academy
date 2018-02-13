@@ -1,0 +1,12 @@
+ul:before {
+    content: "Welcome to CodingPedia"; 
+}
+
+main {
+    margin-top: 50px;
+}
+
+menu {
+    position: relative;
+    float: right;
+}

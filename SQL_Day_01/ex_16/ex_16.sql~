@@ -1,0 +1,1 @@
+select month(sub_date) as "month of birth" from member where id between 42 and 84;

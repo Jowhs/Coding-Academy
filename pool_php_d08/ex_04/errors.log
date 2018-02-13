@@ -1,0 +1,11 @@
+Unknown database 'test'
+php_network_getaddresses: getaddrinfo failed: Name or service not known
+php_network_getaddresses: getaddrinfo failed: Name or service not known
+php_network_getaddresses: getaddrinfo failed: Name or service not known
+php_network_getaddresses: getaddrinfo failed: Name or service not known
+php_network_getaddresses: getaddrinfo failed: Name or service not known
+Access denied for user 'toor'@'localhost' (using password: YES)
+Unknown database 'test'
+Access denied for user 'root'@'localhost' (using password: YES)
+Access denied for user 'root'@'localhost' (using password: YES)
+Unknown database 'test'

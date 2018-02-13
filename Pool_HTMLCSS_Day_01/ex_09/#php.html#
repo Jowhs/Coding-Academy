@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8"/>
+    <title>PHP</title>
+    <link text="text/css" rel="stylesheet" href=""/>
+  </head>
+
+  <body>
+    <header>
+     
+    </header>
+    <menu>
+      <ul>
+	<li>
+	  <a href="index.html">HOME</a>
+	  <a href="php.html">PHP</a>
+	  <a href="sql.html">SQL</a>
+	</li>
+      </ul>      
+    </menu>
+    <main>
+      <article>
+	<h1>PHP</h1>
+	<p><abbr title="Hipertext Preprocessor">PHP</abbr> is a server-side scripting language designed primarily for web development but also used as a general-purpose programming language. Originally created by Rasmus Lerdorf in 1994, the PHP reference implementation is now produced by The PHP Development Team. PHP originally stood for Personal Home Page, but it now stands for the recursive acronym PHP: Hypertext Preprocessor.</p>
+      </article>
+      
+      <article>
+	<table border="1px">
+	  <thead>
+	    <tr>
+	      <td colspan="3" style="text-align:center">Course Planning</td>
+	    </tr>
+	    <tr>
+	      <td style="text-align:center">Subject</td>
+	      <td style="text-align:center">Description</td>
+	      <td style="text-align:center">Grade obtained</td>
+	    </tr>
+	  </thead>
+	  <tbody>
+	    <tr>
+	      <td>Introduction to PHP</td>
+	      <td>What is PHP? What is it used for?</td>
+	      <td>A++</td>
+	    </tr>
+	    <tr>
+	      <td>Setting up the environment</td>
+	      <td>Install programs and server</td>
+	      <td>A++</td>
+	    </tr>
+	    <tr>
+	      <td>PHP basics</td>
+	      <td>Basic structures and arrays</td>
+	      <td>A++</td>
+	    </tr>
+	    <tr>
+	      <td>PHP functions</td>
+	      <td>Functions and callbacks</td>
+	      <td>A++</td>
+	    </tr>
+	    
+	  </tbody>
+	</table>
+      </article>
+     
+      <article>
+	<h3>PHP's Advantatges</h3>
+	<ul>
+	  <li>Open source</li>
+	  <li>Fast</li>
+	  <li>Easy to use</li>
+	  <li>Stable</li>
+	  <li>Powerful library support</li>
+	  <li>Built-in database</li>
+	  <li>Multi-platform</li>
+	</ul>
+	<h3>PHP's Disadvantatges</h3>
+	<ul>
+	  <li>Security</li>
+	  <li>Not suitable for large applications</li>
+	  <li>Weak type</li>
+	</ul>
+      </article>
+
+      <article>
+	<h3>PHP Code Example</h3>
+	<pre>
+	<code>
+
+	 &lt;?php
+	  if (strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== FALSE) {
+	  echo 'You are using Firefox.';
+	  }
+	  ?&gt;
+	  
+	</code>
+	</pre>
+      </article>
+
+      <article>
+	<label for=""><strong>Progress</strong></label><br><br>
+	<label for="">HTML/CSS</label>
+	<progress value="50" max="100"></progress><br>
+	<label for="">PHP</label>
+	<progress value="10" max="100"></progress><br>
+	<label for="">Javascript</label>
+	<progress value="40" max="100"></progress><br>
+	<label for="">Python</label>
+	<progress value="30" max="100"></progress><br>
+	<label for="">SQL</label>
+	<progress value="40" max="100"></progress><br><br>
+      </article>
+          <aside>
+	    <cite>"Peace is a lie, there is only passion<br>
+	      Through passion, I gain strength. <br>
+	      Through strength, I gain power. <br>
+	      Through power, I gain victory. <br>
+	      Through victory, my chains are broken. <br>
+	      The Force shall free me." <br>
+	      
+	  </aside>
+    </main>
+
+    <footer>
+      <adress>
+    <br>Jonathan Cabezas Amor<br>
+	C/.Joan Miró, 21<br>
+	93-222-33-44
+      </adress>
+    </footer>
+  </body>
+
+</html>

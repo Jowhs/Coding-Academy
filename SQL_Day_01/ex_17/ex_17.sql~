@@ -1,0 +1,1 @@
+select title, min_duration from movies where min_duration = (select max(min_duration) from movies);

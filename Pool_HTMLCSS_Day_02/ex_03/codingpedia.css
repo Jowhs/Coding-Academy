@@ -1,0 +1,4 @@
+.container p:first-letter {
+    background-color: grey;
+    font-size: 24px;
+}

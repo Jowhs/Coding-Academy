@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int	main(int argc, char **argv)
+{
+  char *c;
+  int z;
+  
+  c = "Hello\n";
+
+  z = atoi(c);
+  if(argc == 1){
+    printf("Error.\n");
+  }
+  else{
+  
+    int i;
+
+    i = 1;
+    while(argc > i){
+      printf("%s\n", z);
+      z++;
+    }
+  }
+  return (0);
+}
